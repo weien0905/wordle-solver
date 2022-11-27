@@ -19,7 +19,7 @@ python wordle.py words.txt
 ## Word Lists
 
 There are two text files that contain word lists:
-- [words.txt](https://github.com/weien0905/wordle_solver/blob/main/words.txt) contains commonly used 5-letter words
-- [all_words.txt](https://github.com/weien0905/wordle_solver/blob/main/all_words.txt) contains all 5 letter-words
+- [words.txt](https://github.com/weien0905/wordle-solver/blob/main/words.txt) contains commonly used 5-letter words
+- [all_words.txt](https://github.com/weien0905/wordle-solver/blob/main/all_words.txt) contains all 5 letter-words
 
-It is recommended to use [words.txt](https://github.com/weien0905/wordle_solver/blob/main/words.txt) first.
+It is recommended to use [words.txt](https://github.com/weien0905/wordle-solver/blob/main/words.txt) first.
