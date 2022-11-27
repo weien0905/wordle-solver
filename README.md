@@ -16,6 +16,8 @@ Example:
 python wordle.py words.txt
 ```
 
+Next, follow the instructions in the terminal.
+
 ## Word Lists
 
 There are two text files that contain word lists:
