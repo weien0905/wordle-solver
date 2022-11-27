@@ -16,7 +16,7 @@ Example:
 python wordle.py words.txt
 ```
 
-## Word lists
+## Word Lists
 
 There are two text files that contain word lists:
 - [words.txt](https://github.com/weien0905/wordle_solver/blob/main/words.txt) contains commonly used 5-letter words
