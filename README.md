@@ -4,7 +4,7 @@ This is a Python script to solve [Wordle game](https://www.nytimes.com/games/wor
 
 ## Usage
 
-Run the following in terminal.
+Clone this repository and run the following in terminal.
 
 ```bash
 python wordle.py [text file]
